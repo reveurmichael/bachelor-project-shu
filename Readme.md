@@ -15,3 +15,7 @@
 http://www.codeinword.com/
 
 或者用 VSCode, Notepad++ 等。尽量避免截图。
+
+## Misc
+
+欢迎大家提交 PR。

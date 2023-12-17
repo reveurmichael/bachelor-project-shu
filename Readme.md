@@ -13,3 +13,5 @@
 可以放在这儿然后复制：
 
 http://www.codeinword.com/
+
+或者用 VSCode, Notepad++ 等。尽量避免截图。

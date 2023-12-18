@@ -19,8 +19,9 @@ http://www.codeinword.com/
 ## LinkedIn
 
 我希望大家在负责自己的任务模块的时候，能够产出这种风格帖子：
-
-https://www.linkedin.com/company/81907667/
+- https://www.linkedin.com/company/81907667/
+- https://www.linkedin.com/in/alexwang2911/
+- https://www.linkedin.com/groups/961087/
 
 一个星期产生一个，
 

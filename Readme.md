@@ -16,6 +16,19 @@ http://www.codeinword.com/
 
 或者用 VSCode, Notepad++ 等。尽量避免截图。
 
+## LinkedIn
+
+我希望大家在负责自己的任务模块的时候，能够产出这种风格帖子：
+
+https://www.linkedin.com/company/81907667/
+
+一个星期产生一个，
+
+用输出带动输入，
+
+谢谢大家！
+
 ## Misc
 
-欢迎大家提交 PR。
+欢迎大家提交 PR 到这个仓库。
+
